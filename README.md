@@ -109,7 +109,9 @@
 - Manipuri 🇲🇲  
 
 ---
+![Metrics](https://github.com/zeemek/worklfow/blob/main/github-metrics.svg)
 
+---
 
 ## 📊 GitHub Stats
 
