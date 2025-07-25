@@ -1,74 +1,104 @@
-<!-- Banner -->
-![banner](https://your-banner-image-url)
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Leishangthem Michael Meitei</h1>
+<h3 align="center">MCA Student | Full-Stack Developer | Passionate Learner | Pentesting Enthusiast</h3>
 
-# Hello, I’m **Dr.Psycho** 👋
-
-🔍 I’m a **full-stack developer & pentesting enthusiast**, passionate about building secure, high-quality software—web, mobile (Android/iOS), desktop, and gaming.
-
----
-
-## 🛠️ Skills & Tech Stack
-
-- **Languages:** Python, JavaScript/TypeScript, Java, Kotlin, Swift, C#
-- **Frontend:** React, Vue, Angular
-- **Backend:** Node.js, Django, Flask, ASP.NET Core
-- **Mobile:** Android SDK, iOS (Swift), Flutter, React Native
-- **Desktop/Games:** Electron, Unity, Unreal Engine
-- **DevOps/Security:** Docker, Kubernetes, CI/CD, OWASP, Burp Suite
-- **Databases & Tools:** PostgreSQL, MongoDB, Redis, RabbitMQ, Git, Linux, Postman
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=laimeilei&label=Profile%20views&color=0e75b6&style=flat" alt="laimeilei" />
+</p>
 
 ---
 
-## 🚀 What I Do
+## 📍 About Me
 
-- Develop full-stack web and mobile applications
-- Build desktop and cross-platform games
-- Perform **penetration testing**, vulnerability assessment, and secure code reviews
-- Automate workflows with custom scripts and DevOps pipelines
-
----
-
-## 📈 GitHub Stats
-
-![Dr.Psycho's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+📫 **Leishangthem Khong Manung, Thoubal, Manipur - 795138**  
+📞 **+91 7005752990**  
+📧 **m42664266@gmail.com**  
+🔗 **[LinkedIn](https://linkedin.com/in/laimeilei)**
 
 ---
 
-## 🏆 Activity & Metrics
+## 🎓 Education
 
-- **Tech Insights:** [Your Tech Stack Card]
-- **Contribution Streak:** [Streak Stats Card]
-- **Wakatime Weekly Coding:**
-  [![Wakatime](https://wakatime.com/badge/user/your-wakatime-id.svg)](https://wakatime.com/@your-wakatime-id)
-
----
-
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [Awesome App] | Modular web dashboard + APIs | React, Node.js |
-| [Pentest Toolkit] | Custom scripts for security auditing | Python, Bash |
-| [Mobile Game] | 2D cross-platform game | Unity, C# |
-| [Desktop Utility] | Productivity tool, Electron based | Electron, SQLite |
+| Degree | Institution | Duration |
+|--------|-------------|----------|
+| MCA (Master of Computer Application) | Manipur University, Imphal, Manipur | 2022 - 2024 |
+| BCA (Bachelor of Computer Application) | NIELIT Agartala, Tripura | 2017 - 2020 |
 
 ---
 
-## 💼 Contact Me
+## 🧠 Skills
 
-- 💬 Ask me about full-stack, mobile, or pentesting
-- 📬 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🔗 LinkedIn: [YourProfile](https://linkedin.com/in/yourprofile)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-
----
-
-## 🤝 Let’s Connect
-
-Whether it’s collaborating on apps, pentest tools, or exploring new tech, I’m always open to new ideas. Let’s build something impactful together.
+- **Programming Languages:** PHP, Python, C, C++, Julia  
+- **Web Development:** HTML, CSS, JavaScript  
+- **Database:** MySQL  
+- **Development Tools:** Eclipse, VS Code, Atom, PyCharm, Android Studio  
+- **OS:** Windows, Linux  
+- **Design Tools:** Photoshop, Adobe XD, Figma, Adobe Illustrator  
+- **Other Skills:** Logo Design, Hardware Diagnostics, MS Office  
 
 ---
 
-*Inspired by [rzashakeri/beautify-github-profile] for structure & style* :contentReference[oaicite:1]{index=1}
+## 📚 Academic Projects
+
+### 🔹 Fee Management System (BCA)
+- Built a robust web application to manage student fees, records, and reports.
+- Implemented secure user access (admin vs user), with Excel export features.
+- **Tech Stack:** PHP, HTML, CSS, JavaScript, MySQL
+
+### 🔹 Online News Portal (MCA)
+- Developed a dynamic news portal with responsive design and social media integration.
+- Ensured optimal UX and data-driven updates using PHP and MySQL.
+- **Tech Stack:** PHP, HTML, CSS, JavaScript, MySQL
+
+### 🔹 Facial Emotion Recognition Using CNN (MCA)
+- Built a deep learning system using CNN to recognize facial expressions.
+- Focused on real-world AI use-cases in HCI and smart personalization.
+- **Tech Stack:** Python, CNN, Deep Learning
+
+---
+
+## 🏅 Certifications
+
+- **Build a Face Recognition App using Python**  
+  _GUVI Geek Networks, IITM Research Park_  
+  **Certificate ID:** `u21514E55QA9026SF3`
+
+---
+
+## 🧠 Soft Skills
+
+- ✅ Excellent Problem Solving  
+- ✅ Strong Analytical Thinking  
+- ✅ Effective Communication & Teamwork
+
+---
+
+## 🌐 Languages Spoken
+
+- English 🇬🇧  
+- Hindi 🇮🇳  
+- Manipuri 🇲🇲  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=laimeilei&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laimeilei&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to collaboration on full-stack projects, ethical hacking tools, or research in AI/Cybersecurity.
+
+📬 **Email:** [m42664266@gmail.com](mailto:m42664266@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/laimeilei](https://linkedin.com/in/laimeilei)
+
+---
+
+> _“Keep learning. Keep building. Keep securing the digital world.”_
+
