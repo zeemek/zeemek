@@ -3,15 +3,13 @@
 <h3 align="center">MCA Student | Full-Stack Developer | Passionate Learner | Pentesting Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=laimeilei&label=Profile%20views&color=0e75b6&style=flat" alt="laimeilei" />
+  <img src="https://komarev.com/ghpvc/?username=zeemek&label=Profile%20views&color=0e75b6&style=flat" alt="zeemek" />
 </p>
 
 ---
 
 ## 📍 About Me
-
-📫 **Leishangthem Khong Manung, Thoubal, Manipur - 795138**  
-📞 **+91 7005752990**  
+  
 📧 **m42664266@gmail.com**  
 🔗 **[LinkedIn](https://linkedin.com/in/laimeilei)**
 
