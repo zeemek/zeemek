@@ -17,10 +17,10 @@
 
 ## 🎓 Education
 
-| Degree | Institution | Duration |
-|--------|-------------|----------|
-| MCA (Master of Computer Application) | Manipur University, Imphal, Manipur | 2022 - 2024 |
-| BCA (Bachelor of Computer Application) | NIELIT Agartala, Tripura | 2017 - 2020 |
+| Degree | Institution |
+|--------|-------------|
+| MCA (Master of Computer Application) | Manipur University, Imphal, Manipur |
+| BCA (Bachelor of Computer Application) | NIELIT Agartala, Tripura |
 
 ---
 
