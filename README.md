@@ -31,7 +31,7 @@
 - **Programming Languages:** PHP, Python, C, C++, Julia  
 - **Web Development:** HTML, CSS, JavaScript  
 - **Database:** MySQL  
-- **Development Tools:** Eclipse, VS Code, Atom, PyCharm, Android Studio  
+- **Development Tools:** Eclipse, VS Code, Atom, PyCharm, Android Studio, Postman 
 - **OS:** Windows, Linux  
 - **Design Tools:** Photoshop, Adobe XD, Figma, Adobe Illustrator  
 - **Other Skills:** Logo Design, Hardware Diagnostics, MS Office  
