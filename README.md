@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Leishangthem Michael Meitei</h1>
+<h1 align="center">Hi 👋, I'm Leishangthem Michael Meitei </h1>
 <h3 align="center">MCA Student | Full-Stack Developer | Passionate Learner | Pentesting Enthusiast</h3>
 
 <p align="center">
@@ -57,6 +57,37 @@
 
 ---
 
+## 🚀 Other  Projects
+
+### 🟢 Employee Leave Management System
+A web-based leave management system for employees and admins, built with CodeIgniter 4 (PHP), MySQL, and Bootstrap 5. Supports leave requests, admin approvals, balance tracking, reports, and secure user management.
+
+**Tech Stack:** CodeIgniter 4 · PHP 8.1+ · MySQL · Bootstrap 5 · HTML5/CSS3/JS
+
+**Key Features:** Employee registration, leave requests, admin approval, leave balance tracking, history reports, secure authentication, admin dashboard, profile management.
+
+### 🟠 Eyek: The Manipur Heritage App
+A native Android app (Kotlin) for learning Meitei Mayek and exploring Manipur's cultural heritage. Features interactive lessons, stories, and a digital archive, all accessible offline.
+
+**Tech Stack:** Kotlin · Room (SQLite) · AndroidX Security · ProGuard · Google services · Local JSON assets
+
+**Key Features:** Interactive Meitei Mayek lessons, storytelling with audio/video, digital archive, secure storage, offline access.
+
+> _Note: User authentication, bookmarks, progress tracking, and accessibility features are not currently implemented._
+
+
+### 🟣 Waree: The Digital Storytelling Platform
+A modern Flutter app for discovering, reading, and sharing comics and stories. Inspired by oral storytelling traditions, Waree connects readers and authors with interactive features, a vibrant library, and a secure, responsive experience across devices.
+
+**Tech Stack:** Flutter · Dart · GoRouter · Firebase (optional) · REST API · JWT Auth · Bcrypt · Syncfusion PDF Viewer · Google Fonts · Shimmer · Lottie · Shared Preferences
+
+**Key Features:** Personalized home, discover comics, library/bookmarks, author/user profiles, story details, adaptive theming, responsive UI, secure JWT auth, backend-synced bookmarks, bcrypt password security.
+
+> _Note: Some features such as notifications, download functionality, and advanced format selection are marked as TODO or not yet implemented. See code comments for details._ 
+
+
+---
+
 ## 🏅 Certifications
 
 - **Build a Face Recognition App using Python**  
@@ -100,5 +131,4 @@ I'm always open to collaboration on full-stack projects, ethical hacking tools, 
 
 ---
 
-> _“Keep learning. Keep building. Keep securing the digital world.”_
-
+> _“Keep learning. Keep building. Keep securing the digital world.”_ 
