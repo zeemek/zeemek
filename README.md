@@ -6,6 +6,9 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTAycDVkcnI5OXA1eWEwZWtqbXlwcjkzNGc1cDJwOG1wdG8wN3Q1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="fun gif" width="200" />
 </p>
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+MyFriend+I+See+You+Coming+Here" alt="Typing SVG" /></a>
+  </p>
 
 
 <p align="center">
