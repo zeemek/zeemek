@@ -1,10 +1,15 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Leishangthem Michael Meitei</h1>
-<h3 align="center">MCA Student | Full-Stack Developer | Passionate Learner | Pentesting Enthusiast</h3>
-
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTAycDVkcnI5OXA1eWEwZWtqbXlwcjkzNGc1cDJwOG1wdG8wN3Q1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="fun gif" width="200" />
-</p>
+<table width="100%">
+  <tr>
+    <td align="left" valign="top">
+      <h1>Hi 👋, I'm Leishangthem Michael Meitei</h1>
+      <h3>MCA Student | Full-Stack Developer | Passionate Learner | Pentesting Enthusiast</h3>
+    </td>
+    <td align="right" valign="top" width="200">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTAycDVkcnI5OXA1eWEwZWtqbXlwcjkzNGc1cDJwOG1wdG8wN3Q1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="fun gif" width="150" />
+    </td>
+  </tr>
+</table>
 
 
 <p align="center">
