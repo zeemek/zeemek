@@ -110,9 +110,6 @@
 
 ---
 
-![Metrics](https://metrics.lecoq.io/zeemek)
-
----
 
 ## 📊 GitHub Stats
 
