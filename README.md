@@ -69,6 +69,7 @@
 - **Tech Stack:** CodeIgniter 4 · PHP 8.1+ · MySQL · Bootstrap 5 · HTML5/CSS3/JS
 
 - **Key Features:** Employee registration, leave requests, admin approval, leave balance tracking, history reports, secure authentication, admin dashboard, profile management.
+> _Note: Developed leveraging AI-assisted coding tools to enhance productivity, with full manual review and customization to ensure quality and security._
 
 ### 🟠 Eyek: The Manipur Heritage App
 - A native Android app (Kotlin) for learning Meitei Mayek and exploring Manipur's cultural heritage. Features interactive lessons, stories, and a digital archive, all accessible offline.
@@ -77,7 +78,7 @@
 
 - **Key Features:** Interactive Meitei Mayek lessons, storytelling with audio/video, digital archive, secure storage, offline access.
 
-> _Note: User authentication, bookmarks, progress tracking, and accessibility features are not currently implemented._
+> _Note: Built with the support of AI code generation tools to accelerate development, while carefully tailoring and testing to meet project requirements._
 
 
 ### 🟣 Waree: The Digital Storytelling Platform
@@ -87,7 +88,7 @@
 
 - **Key Features:** Personalized home, discover comics, library/bookmarks, author/user profiles, story details, adaptive theming, responsive UI, secure JWT auth, backend-synced bookmarks, bcrypt password security.
 
-> _Note: Some features such as notifications, download functionality, and advanced format selection are marked as TODO or not yet implemented. See code comments for details._ 
+> _Note: Incorporates AI-generated code snippets and suggestions to optimize development speed, followed by rigorous manual refinement and testing._ 
 
 
 ---
