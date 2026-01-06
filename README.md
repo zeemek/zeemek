@@ -96,7 +96,16 @@
 
 > _Note: Incorporates AI-generated code snippets and suggestions to optimize development speed, followed by rigorous manual refinement and testing._ 
 
-
+### 🟢 E-commerce Platform (In Progress)
+- Developed a comprehensive multi-vendor e-commerce platform with Node.js, Express, MySQL and flutter for mobile 
+apps. Implemented role-based access control (RBAC) system supporting customers, sellers, admins, and delivery 
+personnel
+- Built secure REST APIs with JWT authentication, input validation, rate limiting, and comprehensive error handling. Designed scalable database architecture with MySQL including user management, order processing, payment 
+integration, and analytics.
+- Integrated Redis caching, connection pooling, and Winston logging for optimal performance and monitoring.
+- Created comprehensive API documentation, Postman collections, and automated database setup scripts.
+- Technologies: Node.js, Express, MySQL, Redis, JWT, REST APIs, bcrypt, Winston, Jest
+> _Notes: Incorporates AI-generated code snippets and suggestions to optimize development speed, followed by rigorous manual refinement and testing 
 ---
 
 ## 🏅 Certifications
